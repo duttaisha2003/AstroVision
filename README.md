@@ -1,2 +1,2 @@
-# JavascriptProjects
-My Javascript Project
+AstroVision
+My First Javascript Project
